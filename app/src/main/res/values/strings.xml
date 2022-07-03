@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GradingApp</string>
+    <string name="gradeEntry">Grade Entry</string>
+    <string name="viewGrades">View Grades</string>
+    <string name="search">Search</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
